@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png",
+        "alt":"کابل شارژ"
+    },
+    {
+        "id":"2",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png",
+        "alt":"باتری"
+    },
+    {
+        "id":"3",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png",
+        "alt":"مبدل و رابط"
+    },
+    {
+        "id":"4",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png",
+        "alt":"لوازم گیمینگ"
+    },
+    {
+        "id":"5",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png",
+        "alt":"هولدر و نگهدارنده"
+    },
+    {
+        "id":"6",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png",
+        "alt":"هندزفری و هدست"
+    },
+    {
+        "id":"7",
+        "url":"https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png",
+        "alt":"پاوربانک و لوازم"
+    }
+]
